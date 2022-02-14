@@ -1,0 +1,31 @@
+
+/*Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,200;1,100;1,200&display=swap');
+
+body {
+  background: #BBB7BB;
+  color: Black;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: rebeccapurple;
+  font-size: 50px;
+}
+
+div {
+  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), url("../../media/examples/lizard.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding: 25px 25px 25px 25px;
+  margin: 50px 50px 50px 50px;
+  
+
+}
+.pro {
+  height: 50%;
+  width: 50%;
+  display:block;
+  margin:auto;
+}
